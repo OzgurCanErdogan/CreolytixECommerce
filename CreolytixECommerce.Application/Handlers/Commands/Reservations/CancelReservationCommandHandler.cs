@@ -31,11 +31,21 @@ namespace CreolytixECommerce.Application.Handlers.Commands.Reservations
             var reservation = await _reservationRepository.GetReservationByIdAsync(request.ReservationId);
 
             // If reservation is not found or is already canceled, return false
-            if (reservation == null || reservation.Status != ReservationStatus.Active)
+            if (reservation == null)
             {
-                response.IsSuccess = true;
-                response.Message = "Reservation is not found or is already canceled";
+                response.IsSuccess = false;
+                response.ResultDto = false;
+                response.Message = "Reservation is not found";
                 return response;
+            }
+            
+            if(reservation.Status != ReservationStatus.Active)
+            {
+                response.IsSuccess = false;
+                response.ResultDto = true;
+                response.Message = "Reservation is already canceled";
+                return response;
+
             }
 
             // Update reservation status to Canceled
