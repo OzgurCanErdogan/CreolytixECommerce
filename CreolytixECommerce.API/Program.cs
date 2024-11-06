@@ -28,25 +28,13 @@ using CreolytixECommerce.API.Mapping;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
-
-
-// Add Infrastructure services
-//builder.Services.AddInfrastructure(builder.Configuration);
 builder.Services.AddAutoMapper(typeof(MappingProfiles));
 
 builder.Services.AddControllers();
 
-// Add Mediator for CQRS
-//builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
-//builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(AddProductCommandHandler).Assembly));
-
 // Configure RabbitMQ settings from configuration
 var rabbitMqSettings = builder.Configuration.GetSection("RabbitMqSettings").Get<RabbitMqSettings>();
 builder.Services.AddSingleton(rabbitMqSettings);
-///builder.Services.AddSingleton<RabbitMqPublisher>();
-//builder.Services.AddHostedService<RabbitMqListener>();
 
 // Register RabbitMQ services
 builder.Services.AddSingleton<IMessagePublisher, RabbitMqPublisher>();
@@ -65,9 +53,8 @@ builder.Services.AddScoped<IStoreRepository, StoreRepository>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IReservationRepository, ReservationRepository>();
 builder.Services.AddScoped<IInventoryRepository, InventoryRepository>();
-//builder.Services.AddScoped<IInventoryRepository, InventoryRepository>();
 
-//builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblyContaining(typeof(ICommandHandler<>)));
+// Register MediatR
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
 builder.Services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(UpdateInventoryCommandHandler).Assembly));
 builder.Services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(CancelReservationCommandHandler).Assembly));
@@ -83,8 +70,7 @@ builder.Services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof
 builder.Services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(UpdateInventoryCommandHandler).Assembly));
 
 
-// Register Consumers as Scoped
-
+// Register Consumers as AddHostedService
 builder.Services.AddHostedService<GetProductByIdConsumer>();
 builder.Services.AddHostedService<GetProductsByCategoryConsumer>();
 builder.Services.AddHostedService<GetStoreByIdConsumer>();
@@ -96,9 +82,6 @@ builder.Services.AddHostedService<GetProductsStoreByIdConsumer>();
 builder.Services.AddHostedService<GetAvailableStoresConsumer>();
 builder.Services.AddHostedService<UpdateInventoryConsumer>();
 
-
-// Register ConsumerManager as Singleton
-//builder.Services.AddSingleton<ConsumerManager>();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -116,9 +99,5 @@ if (app.Environment.IsDevelopment())
 app.UseAuthorization();
 
 app.MapControllers();
-
-// Start all consumers using the ConsumerManager on application startup
-//var consumerManager = app.Services.GetRequiredService<ConsumerManager>();
-//consumerManager.StartAll();
 
 app.Run();

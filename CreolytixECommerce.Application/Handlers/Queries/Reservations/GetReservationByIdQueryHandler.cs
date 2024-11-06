@@ -1,6 +1,8 @@
 ﻿using CreolytixECommerce.Application.DTOs;
 using CreolytixECommerce.Application.Queries.Reservations;
 using CreolytixECommerce.Application.Wrappers;
+using CreolytixECommerce.Domain.Entities;
+using CreolytixECommerce.Domain.Enums;
 using CreolytixECommerce.Domain.Interfaces;
 using MediatR;
 using System;
@@ -14,10 +16,11 @@ namespace CreolytixECommerce.Application.Handlers.Queries.Reservations
     public class GetReservationByIdQueryHandler : IRequestHandler<GetReservationByIdQuery, ResponseWrapper<ReservationDto>>
     {
         private readonly IReservationRepository _reservationRepository;
-
-        public GetReservationByIdQueryHandler(IReservationRepository reservationRepository)
+        private readonly IInventoryRepository _inventoryRepository;
+        public GetReservationByIdQueryHandler(IReservationRepository reservationRepository, IInventoryRepository inventoryRepository)
         {
             _reservationRepository = reservationRepository;
+            _inventoryRepository = inventoryRepository;
         }
 
         public async Task<ResponseWrapper<ReservationDto>> Handle(GetReservationByIdQuery request, CancellationToken cancellationToken)
@@ -33,6 +36,16 @@ namespace CreolytixECommerce.Application.Handlers.Queries.Reservations
                 response.IsSuccess = false;
                 response.Message = "The reservation is not found";
                 return response;
+            }
+
+            if(reservation.Status != ReservationStatus.Active)
+            {
+                var inventory = await _inventoryRepository.GetInventoryAsync(reservation.StoreId, reservation.ProductId);
+                if (inventory != null)
+                {
+                    inventory.Quantity = inventory.Quantity + 1;
+                    await _inventoryRepository.UpdateInventoryAsync(inventory);
+                }
             }
 
             // Map reservation to ReservationDto

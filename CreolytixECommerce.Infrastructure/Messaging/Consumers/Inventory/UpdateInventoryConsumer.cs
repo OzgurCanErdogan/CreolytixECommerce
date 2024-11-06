@@ -28,7 +28,7 @@ namespace CreolytixECommerce.Infrastructure.Messaging.Consumers.Inventory
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            // Listen for MessageWrapper<GetNearbyStoresQuery>
+            // Listen for MessageWrapper<UpdateInventoryCommand>
             await _messageListener.StartListeningAsync<MessageWrapper<UpdateInventoryCommand>>("update_inventory_queue", async wrappedMessage =>
             {
                 // Check if the cancellation token is requested to stop
@@ -42,11 +42,10 @@ namespace CreolytixECommerce.Infrastructure.Messaging.Consumers.Inventory
                 // Extract the query from the wrapper
                 var query = wrappedMessage.Payload;
 
-                // Process the query using Mediator to retrieve nearby stores
-                var stores = await mediator.Send(query, stoppingToken);
+                var inventory = await mediator.Send(query, stoppingToken);
 
                 // Wrap the response in MessageWrapper and set the CorrelationId
-                var responseWrapper = new MessageWrapper<object>(stores)
+                var responseWrapper = new MessageWrapper<object>(inventory)
                 {
                     CorrelationId = wrappedMessage.CorrelationId  // Use the same CorrelationId
                 };
