@@ -60,7 +60,7 @@ This document outlines the core architectural and design decisions made in devel
 ### Success/Error Handling
 
 - **Standardized Response Structure**: Commands and queries return responses with `Success` and `Message` fields for uniform error handling.
-- **Result Wrapping**: Commands implement a `Result<T>` wrapper for consistent handling of success, failure, and associated messages.
+- **Result Wrapping**: Commands implement a `ResultWrapper<T>` wrapper for consistent handling of success, failure, and associated messages.
 
 ### Asynchronous Processing
 
