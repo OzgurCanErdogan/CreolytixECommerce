@@ -177,3 +177,44 @@ db.stores.insertMany([
 ]);
 ```
 
+# Solution Workflow Guide
+
+## Running the Application
+First, start the application either through Visual Studio or from the command line. Once the application is running, populate the database with sample data as shown in previous section "MongoDB Data Population for CreolytixECommerce".
+
+## Workflow Steps
+
+1. **Retrieve Products by Category:** To find products within a specific category, such as "Electronics", make a `GET` request to `http://localhost:5002/api/products?category=Electronics`. This will help identify products within that category.
+
+2. **Get Product Details:** After obtaining a product ID from the previous step, retrieve specific details for that product by sending a `GET` request to `http://localhost:5002/api/products/{productId}`.
+
+3. **Find Nearby Stores:** To locate stores near a specific location (latitude and longitude), use the `GET` request `http://localhost:5002/api/stores/nearby?latitude=52.48&longitude=13.38&radius=100`. This will return stores within a given radius.
+
+4. **Get Store Details:** After identifying a store, retrieve details for that specific store with `http://localhost:5002/api/stores/{storeId}`.
+
+5. **Add Product to Store Inventory:** Once you have a `storeId` and `productId`, create an inventory entry for a specific store and product. Send a `POST` request to `http://localhost:5002/api/inventory` with the following JSON body to set the quantity of the product in inventory:
+    ```json
+    {
+        "StoreId": "{storeId}",
+        "ProductId": "{productId}",
+        "Quantity": 6
+    }
+    ```
+
+6. **Retrieve Inventory Products for a Store:** To view all products available in a specific store’s inventory, use the `GET` request `http://localhost:5002/api/stores/{storeId}/products`.
+
+7. **Find Closest Stores with Product Availability:** With multiple stores and products in inventory, locate stores nearest to a specified latitude and longitude where a specific product is available. Use `GET http://localhost:5002/api/products/{productId}/availability?lat=52.48&lng=13.38`.
+
+8. **Create a Reservation for a Product:** With both `storeId` and `productId` available, reserve a specific product at a particular store by sending a `POST` request to `http://localhost:5002/api/reservations`. Use the following JSON body to specify the reservation:
+    ```json
+    {
+        "StoreId": "{storeId}",
+        "ProductId": "{productId}"
+    }
+    ```
+
+9. **Check Reservation Details:** Retrieve details for a specific reservation using `http://localhost:5002/api/reservations/{reservationId}`.
+
+10. **Cancel a Reservation Manually:** To cancel a reservation manually, send a `DELETE` request to `http://localhost:5002/api/reservations/{reservationId}`.
+
+For a complete list of all available endpoints, visit the [Swagger API Documentation](http://localhost:5002/swagger/index.html).
