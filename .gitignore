@@ -361,3 +361,24 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/.vs/CreolytixECommerce/DesignTimeBuild/.dtbcache.v2
+/.vs/CreolytixECommerce/v17/.suo
+/.vs/CreolytixECommerce/v17/DocumentLayout.backup.json
+/.vs/CreolytixECommerce/v17/DocumentLayout.json
+/CreolytixECommerce.Domain/bin/Debug/net8.0/CreolytixECommerce.Domain.dll
+/CreolytixECommerce.Domain/bin/Debug/net8.0/CreolytixECommerce.Domain.pdb
+/CreolytixECommerce.Domain/obj/Debug/net8.0/ref/CreolytixECommerce.Domain.dll
+/CreolytixECommerce.Domain/obj/Debug/net8.0/refint/CreolytixECommerce.Domain.dll
+/CreolytixECommerce.Application/obj/Debug/net8.0/ref/CreolytixECommerce.Application.dll
+/CreolytixECommerce.Application/obj/Debug/net8.0/refint/CreolytixECommerce.Application.dll
+/CreolytixECommerce.Infrastructure/obj/Debug/net8.0/ref/CreolytixECommerce.Infrastructure.dll
+/CreolytixECommerce.API/obj/Debug/net8.0/CreolytixECommerce.API.AssemblyInfo.cs
+/CreolytixECommerce.API/obj/Debug/net8.0/CreolytixECommerce.API.AssemblyInfoInputs.cache
+/CreolytixECommerce.API/obj/Debug/net8.0/CreolytixECommerce.API.csproj.AssemblyReference.cache
+/CreolytixECommerce.API/obj/Debug/net8.0/CreolytixECommerce.API.csproj.FileListAbsolute.txt
+/CreolytixECommerce.API/obj/Debug/net8.0/CreolytixECommerce.API.dll
+/CreolytixECommerce.API/obj/Debug/net8.0/CreolytixECommerce.API.pdb
+/CreolytixECommerce.API/obj/Debug/net8.0/ref/CreolytixECommerce.API.dll
+/CreolytixECommerce.API/obj/Debug/net8.0/refint/CreolytixECommerce.API.dll
+/obj/Debug/docker-compose.dcproj.AssemblyReference.cache
+/CreolytixECommerce.API/obj/Debug/net8.0/apphost.exe
