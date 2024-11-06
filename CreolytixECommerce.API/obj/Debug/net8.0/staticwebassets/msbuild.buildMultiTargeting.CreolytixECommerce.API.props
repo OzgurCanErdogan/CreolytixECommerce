@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CreolytixECommerce.API.props" />
+</Project>

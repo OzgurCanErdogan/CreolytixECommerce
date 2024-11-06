@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreolytixECommerce.API", "CreolytixECommerce.API\CreolytixECommerce.API.csproj", "{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreolytixECommerce.Domain", "CreolytixECommerce.Domain\CreolytixECommerce.Domain.csproj", "{ACF8059E-FF6B-4641-B1EB-6A330AAF5B66}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreolytixECommerce.Application", "CreolytixECommerce.Application\CreolytixECommerce.Application.csproj", "{5814F7E1-C957-41F6-B77A-AB593285FAAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreolytixECommerce.Infrastructure", "CreolytixECommerce.Infrastructure\CreolytixECommerce.Infrastructure.csproj", "{B0215875-C5D5-4B7B-A770-4854B3C56816}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{8476B992-F0DB-44BF-8B5B-14624B4C007A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACF8059E-FF6B-4641-B1EB-6A330AAF5B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF8059E-FF6B-4641-B1EB-6A330AAF5B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF8059E-FF6B-4641-B1EB-6A330AAF5B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF8059E-FF6B-4641-B1EB-6A330AAF5B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5814F7E1-C957-41F6-B77A-AB593285FAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5814F7E1-C957-41F6-B77A-AB593285FAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5814F7E1-C957-41F6-B77A-AB593285FAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5814F7E1-C957-41F6-B77A-AB593285FAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0215875-C5D5-4B7B-A770-4854B3C56816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0215875-C5D5-4B7B-A770-4854B3C56816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0215875-C5D5-4B7B-A770-4854B3C56816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0215875-C5D5-4B7B-A770-4854B3C56816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8476B992-F0DB-44BF-8B5B-14624B4C007A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8476B992-F0DB-44BF-8B5B-14624B4C007A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8476B992-F0DB-44BF-8B5B-14624B4C007A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8476B992-F0DB-44BF-8B5B-14624B4C007A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67EBA406-0984-429C-BF4F-12492D29F73C}
+	EndGlobalSection
+EndGlobal

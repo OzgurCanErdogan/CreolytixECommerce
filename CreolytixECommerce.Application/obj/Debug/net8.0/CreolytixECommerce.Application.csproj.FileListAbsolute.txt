@@ -1,0 +1,15 @@
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Application\bin\Debug\net8.0\CreolytixECommerce.Application.deps.json
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Application\bin\Debug\net8.0\CreolytixECommerce.Application.dll
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Application\bin\Debug\net8.0\CreolytixECommerce.Application.pdb
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Application\bin\Debug\net8.0\CreolytixECommerce.Domain.dll
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Application\bin\Debug\net8.0\CreolytixECommerce.Domain.pdb
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Application\obj\Debug\net8.0\CreolytixECommerce.Application.csproj.AssemblyReference.cache
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Application\obj\Debug\net8.0\CreolytixECommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Application\obj\Debug\net8.0\CreolytixECommerce.Application.AssemblyInfoInputs.cache
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Application\obj\Debug\net8.0\CreolytixECommerce.Application.AssemblyInfo.cs
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Application\obj\Debug\net8.0\CreolytixECommerce.Application.csproj.CoreCompileInputs.cache
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Application\obj\Debug\net8.0\Creolyti.39982D3B.Up2Date
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Application\obj\Debug\net8.0\CreolytixECommerce.Application.dll
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Application\obj\Debug\net8.0\refint\CreolytixECommerce.Application.dll
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Application\obj\Debug\net8.0\CreolytixECommerce.Application.pdb
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Application\obj\Debug\net8.0\ref\CreolytixECommerce.Application.dll

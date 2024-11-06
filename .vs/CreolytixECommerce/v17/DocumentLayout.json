@@ -1,0 +1,1146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8476B992-F0DB-44BF-8B5B-14624B4C007A}|docker-compose.dcproj|d:\\creolytixecommerceapi\\creolytixecommerce\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8476B992-F0DB-44BF-8B5B-14624B4C007A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8476B992-F0DB-44BF-8B5B-14624B4C007A}|docker-compose.dcproj|d:\\creolytixecommerceapi\\creolytixecommerce\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8476B992-F0DB-44BF-8B5B-14624B4C007A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0215875-C5D5-4B7B-A770-4854B3C56816}|CreolytixECommerce.Infrastructure\\CreolytixECommerce.Infrastructure.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.infrastructure\\messaging\\rabbitmqlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0215875-C5D5-4B7B-A770-4854B3C56816}|CreolytixECommerce.Infrastructure\\CreolytixECommerce.Infrastructure.csproj|solutionrelative:creolytixecommerce.infrastructure\\messaging\\rabbitmqlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8476B992-F0DB-44BF-8B5B-14624B4C007A}|docker-compose.dcproj|d:\\creolytixecommerceapi\\creolytixecommerce\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8476B992-F0DB-44BF-8B5B-14624B4C007A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\mapping\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\mapping\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\responsedtos\\store\\getstorebyidresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\responsedtos\\store\\getstorebyidresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\handlers\\queries\\products\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\handlers\\queries\\products\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0215875-C5D5-4B7B-A770-4854B3C56816}|CreolytixECommerce.Infrastructure\\CreolytixECommerce.Infrastructure.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.infrastructure\\messaging\\consumers\\product\\getproductbyidconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0215875-C5D5-4B7B-A770-4854B3C56816}|CreolytixECommerce.Infrastructure\\CreolytixECommerce.Infrastructure.csproj|solutionrelative:creolytixecommerce.infrastructure\\messaging\\consumers\\product\\getproductbyidconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0215875-C5D5-4B7B-A770-4854B3C56816}|CreolytixECommerce.Infrastructure\\CreolytixECommerce.Infrastructure.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.infrastructure\\messaging\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0215875-C5D5-4B7B-A770-4854B3C56816}|CreolytixECommerce.Infrastructure\\CreolytixECommerce.Infrastructure.csproj|solutionrelative:creolytixecommerce.infrastructure\\messaging\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\handlers\\queries\\stores\\getnearbystoresqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\handlers\\queries\\stores\\getnearbystoresqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\handlers\\queries\\reservations\\getreservationbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\handlers\\queries\\reservations\\getreservationbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\handlers\\queries\\products\\getproductsbycategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\handlers\\queries\\products\\getproductsbycategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\handlers\\queries\\products\\getproductavailabilityqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\handlers\\queries\\products\\getproductavailabilityqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\handlers\\commands\\reservations\\createreservationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\handlers\\commands\\reservations\\createreservationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\handlers\\commands\\reservations\\cancelreservationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\handlers\\commands\\reservations\\cancelreservationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0215875-C5D5-4B7B-A770-4854B3C56816}|CreolytixECommerce.Infrastructure\\CreolytixECommerce.Infrastructure.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.infrastructure\\messaging\\consumers\\reservations\\getreservationbyidconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0215875-C5D5-4B7B-A770-4854B3C56816}|CreolytixECommerce.Infrastructure\\CreolytixECommerce.Infrastructure.csproj|solutionrelative:creolytixecommerce.infrastructure\\messaging\\consumers\\reservations\\getreservationbyidconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0215875-C5D5-4B7B-A770-4854B3C56816}|CreolytixECommerce.Infrastructure\\CreolytixECommerce.Infrastructure.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.infrastructure\\messaging\\consumers\\reservations\\cancelreservationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0215875-C5D5-4B7B-A770-4854B3C56816}|CreolytixECommerce.Infrastructure\\CreolytixECommerce.Infrastructure.csproj|solutionrelative:creolytixecommerce.infrastructure\\messaging\\consumers\\reservations\\cancelreservationconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\wrappers\\responsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\wrappers\\responsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\wrappers\\messagewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\wrappers\\messagewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\queries\\stores\\getstorebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\queries\\stores\\getstorebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\queries\\stores\\getnearbystoresquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\queries\\stores\\getnearbystoresquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\queries\\reservations\\getreservationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\queries\\reservations\\getreservationbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\queries\\products\\getproductsbycategoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\queries\\products\\getproductsbycategoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\commands\\reservations\\cancelreservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\commands\\reservations\\cancelreservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\dtos\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\dtos\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\responsedtos\\store\\getstoreproductsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\responsedtos\\store\\getstoreproductsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\responsedtos\\store\\getnearbystoresresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\responsedtos\\store\\getnearbystoresresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\responsedtos\\reservation\\getreservationbyidresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\responsedtos\\reservation\\getreservationbyidresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\responsedtos\\reservation\\createreservationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\responsedtos\\reservation\\createreservationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\dtos\\storedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\dtos\\storedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\responsedtos\\product\\getproductavailabilityresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\responsedtos\\product\\getproductavailabilityresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\responsedtos\\product\\getproductsbycategoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\responsedtos\\product\\getproductsbycategoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\responsedtos\\product\\getproductbyidresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\responsedtos\\product\\getproductbyidresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\responsedtos\\inventory\\updateinventoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\responsedtos\\inventory\\updateinventoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0215875-C5D5-4B7B-A770-4854B3C56816}|CreolytixECommerce.Infrastructure\\CreolytixECommerce.Infrastructure.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.infrastructure\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0215875-C5D5-4B7B-A770-4854B3C56816}|CreolytixECommerce.Infrastructure\\CreolytixECommerce.Infrastructure.csproj|solutionrelative:creolytixecommerce.infrastructure\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF8059E-FF6B-4641-B1EB-6A330AAF5B66}|CreolytixECommerce.Domain\\CreolytixECommerce.Domain.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.domain\\interfaces\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF8059E-FF6B-4641-B1EB-6A330AAF5B66}|CreolytixECommerce.Domain\\CreolytixECommerce.Domain.csproj|solutionrelative:creolytixecommerce.domain\\interfaces\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\interfaces\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\interfaces\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\interfaces\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\interfaces\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF8059E-FF6B-4641-B1EB-6A330AAF5B66}|CreolytixECommerce.Domain\\CreolytixECommerce.Domain.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF8059E-FF6B-4641-B1EB-6A330AAF5B66}|CreolytixECommerce.Domain\\CreolytixECommerce.Domain.csproj|solutionrelative:creolytixecommerce.domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0215875-C5D5-4B7B-A770-4854B3C56816}|CreolytixECommerce.Infrastructure\\CreolytixECommerce.Infrastructure.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.infrastructure\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0215875-C5D5-4B7B-A770-4854B3C56816}|CreolytixECommerce.Infrastructure\\CreolytixECommerce.Infrastructure.csproj|solutionrelative:creolytixecommerce.infrastructure\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ozgur\\AppData\\Local\\SourceServer\\94d7178b1ce1ced0364f0c6a39f29b34debb0249b6cf0df0cd23002a9aaf901c\\MongoClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0215875-C5D5-4B7B-A770-4854B3C56816}|CreolytixECommerce.Infrastructure\\CreolytixECommerce.Infrastructure.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.infrastructure\\configuration\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0215875-C5D5-4B7B-A770-4854B3C56816}|CreolytixECommerce.Infrastructure\\CreolytixECommerce.Infrastructure.csproj|solutionrelative:creolytixecommerce.infrastructure\\configuration\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8476B992-F0DB-44BF-8B5B-14624B4C007A}|docker-compose.dcproj|d:\\creolytixecommerceapi\\creolytixecommerce\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8476B992-F0DB-44BF-8B5B-14624B4C007A}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8476B992-F0DB-44BF-8B5B-14624B4C007A}|docker-compose.dcproj|d:\\creolytixecommerceapi\\creolytixecommerce\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8476B992-F0DB-44BF-8B5B-14624B4C007A}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF8059E-FF6B-4641-B1EB-6A330AAF5B66}|CreolytixECommerce.Domain\\CreolytixECommerce.Domain.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.domain\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF8059E-FF6B-4641-B1EB-6A330AAF5B66}|CreolytixECommerce.Domain\\CreolytixECommerce.Domain.csproj|solutionrelative:creolytixecommerce.domain\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF8059E-FF6B-4641-B1EB-6A330AAF5B66}|CreolytixECommerce.Domain\\CreolytixECommerce.Domain.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF8059E-FF6B-4641-B1EB-6A330AAF5B66}|CreolytixECommerce.Domain\\CreolytixECommerce.Domain.csproj|solutionrelative:creolytixecommerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.application\\interfaces\\messaging\\imessagelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5814F7E1-C957-41F6-B77A-AB593285FAAB}|CreolytixECommerce.Application\\CreolytixECommerce.Application.csproj|solutionrelative:creolytixecommerce.application\\interfaces\\messaging\\imessagelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF8059E-FF6B-4641-B1EB-6A330AAF5B66}|CreolytixECommerce.Domain\\CreolytixECommerce.Domain.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF8059E-FF6B-4641-B1EB-6A330AAF5B66}|CreolytixECommerce.Domain\\CreolytixECommerce.Domain.csproj|solutionrelative:creolytixecommerce.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0215875-C5D5-4B7B-A770-4854B3C56816}|CreolytixECommerce.Infrastructure\\CreolytixECommerce.Infrastructure.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.infrastructure\\configuration\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0215875-C5D5-4B7B-A770-4854B3C56816}|CreolytixECommerce.Infrastructure\\CreolytixECommerce.Infrastructure.csproj|solutionrelative:creolytixecommerce.infrastructure\\configuration\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\creolytixecommerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\creolytixecommerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|d:\\creolytixecommerceapi\\creolytixecommerce\\creolytixecommerce.api\\creolytixecommerce.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5AFCD0C6-AA84-4194-BBC7-776CE1088BD9}|CreolytixECommerce.API\\CreolytixECommerce.API.csproj|solutionrelative:creolytixecommerce.api\\creolytixecommerce.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Interfaces\\Services\\IStoreService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CreolytixECommerce.Application\\Interfaces\\Services\\IStoreService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Interfaces\\Services\\IInventoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CreolytixECommerce.Application\\Interfaces\\Services\\IInventoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Services\\StoreService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CreolytixECommerce.Application\\Services\\StoreService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Services\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CreolytixECommerce.Application\\Services\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Interfaces\\Services\\IReservationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CreolytixECommerce.Application\\Interfaces\\Services\\IReservationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Interfaces\\Services\\IProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CreolytixECommerce.Application\\Interfaces\\Services\\IProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\Program.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\Program.cs",
+              "RelativeToolTip": "CreolytixECommerce.API\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:40:30.97Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RabbitMqPublisher.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Infrastructure\\Messaging\\RabbitMqPublisher.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Infrastructure\\Messaging\\RabbitMqPublisher.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Infrastructure\\Messaging\\RabbitMqPublisher.cs",
+              "RelativeToolTip": "CreolytixECommerce.Infrastructure\\Messaging\\RabbitMqPublisher.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:34:21.968Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMqListener.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Infrastructure\\Messaging\\RabbitMqListener.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Infrastructure\\Messaging\\RabbitMqListener.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Infrastructure\\Messaging\\RabbitMqListener.cs",
+              "RelativeToolTip": "CreolytixECommerce.Infrastructure\\Messaging\\RabbitMqListener.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:34:27.934Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-05T18:29:44.942Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\Dockerfile",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\Dockerfile",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\Dockerfile",
+              "RelativeToolTip": "CreolytixECommerce.API\\Dockerfile",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-03T10:58:24.689Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-05T18:29:38.588Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-05T18:56:10.8Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\appsettings.json",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\appsettings.json",
+              "RelativeToolTip": "CreolytixECommerce.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T21:40:04.731Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CreolytixECommerce.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T11:20:38.179Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetProductsByCategoryQueryHandler.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Handlers\\Queries\\Products\\GetProductsByCategoryQueryHandler.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Handlers\\Queries\\Products\\GetProductsByCategoryQueryHandler.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Handlers\\Queries\\Products\\GetProductsByCategoryQueryHandler.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Handlers\\Queries\\Products\\GetProductsByCategoryQueryHandler.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:13:02.563Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateReservationCommandHandler.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Handlers\\Commands\\Reservations\\CreateReservationCommandHandler.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Handlers\\Commands\\Reservations\\CreateReservationCommandHandler.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Handlers\\Commands\\Reservations\\CreateReservationCommandHandler.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Handlers\\Commands\\Reservations\\CreateReservationCommandHandler.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAvwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:28:58.536Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UpdateInventoryResponseDto.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\ResponseDtos\\Inventory\\UpdateInventoryResponseDto.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\ResponseDtos\\Inventory\\UpdateInventoryResponseDto.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\ResponseDtos\\Inventory\\UpdateInventoryResponseDto.cs",
+              "RelativeToolTip": "CreolytixECommerce.API\\ResponseDtos\\Inventory\\UpdateInventoryResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:55:47.006Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\Controllers\\InventoryController.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "CreolytixECommerce.API\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAvwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T22:06:09.018Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\Mapping\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\Mapping\\MappingProfiles.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\Mapping\\MappingProfiles.cs",
+              "RelativeToolTip": "CreolytixECommerce.API\\Mapping\\MappingProfiles.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:52:13.111Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CreolytixECommerce.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:41:24.903Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetProductByIdResponseDto.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\ResponseDtos\\Product\\GetProductByIdResponseDto.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\ResponseDtos\\Product\\GetProductByIdResponseDto.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\ResponseDtos\\Product\\GetProductByIdResponseDto.cs",
+              "RelativeToolTip": "CreolytixECommerce.API\\ResponseDtos\\Product\\GetProductByIdResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:09:12.801Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetProductsByCategoryResponseDto.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\ResponseDtos\\Product\\GetProductsByCategoryResponseDto.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\ResponseDtos\\Product\\GetProductsByCategoryResponseDto.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\ResponseDtos\\Product\\GetProductsByCategoryResponseDto.cs",
+              "RelativeToolTip": "CreolytixECommerce.API\\ResponseDtos\\Product\\GetProductsByCategoryResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:10:52.373Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetProductAvailabilityResponseDto.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\ResponseDtos\\Product\\GetProductAvailabilityResponseDto.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\ResponseDtos\\Product\\GetProductAvailabilityResponseDto.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\ResponseDtos\\Product\\GetProductAvailabilityResponseDto.cs",
+              "RelativeToolTip": "CreolytixECommerce.API\\ResponseDtos\\Product\\GetProductAvailabilityResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:12:12.893Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\Controllers\\ReservationsController.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "CreolytixECommerce.API\\Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:41:37.542Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateReservationResponseDto.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\ResponseDtos\\Reservation\\CreateReservationResponseDto.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\ResponseDtos\\Reservation\\CreateReservationResponseDto.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\ResponseDtos\\Reservation\\CreateReservationResponseDto.cs",
+              "RelativeToolTip": "CreolytixECommerce.API\\ResponseDtos\\Reservation\\CreateReservationResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:13:58.489Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetReservationByIdResponseDto.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\ResponseDtos\\Reservation\\GetReservationByIdResponseDto.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\ResponseDtos\\Reservation\\GetReservationByIdResponseDto.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\ResponseDtos\\Reservation\\GetReservationByIdResponseDto.cs",
+              "RelativeToolTip": "CreolytixECommerce.API\\ResponseDtos\\Reservation\\GetReservationByIdResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:14:26.112Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StoresController.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\Controllers\\StoresController.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\Controllers\\StoresController.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\Controllers\\StoresController.cs",
+              "RelativeToolTip": "CreolytixECommerce.API\\Controllers\\StoresController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAswGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:41:31.04Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetStoreByIdResponseDto.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\ResponseDtos\\Store\\GetStoreByIdResponseDto.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\ResponseDtos\\Store\\GetStoreByIdResponseDto.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\ResponseDtos\\Store\\GetStoreByIdResponseDto.cs",
+              "RelativeToolTip": "CreolytixECommerce.API\\ResponseDtos\\Store\\GetStoreByIdResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:22:14.048Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetNearbyStoresResponseDto.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\ResponseDtos\\Store\\GetNearbyStoresResponseDto.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\ResponseDtos\\Store\\GetNearbyStoresResponseDto.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\ResponseDtos\\Store\\GetNearbyStoresResponseDto.cs",
+              "RelativeToolTip": "CreolytixECommerce.API\\ResponseDtos\\Store\\GetNearbyStoresResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:23:00.065Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetStoreProductsResponseDto.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\ResponseDtos\\Store\\GetStoreProductsResponseDto.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\ResponseDtos\\Store\\GetStoreProductsResponseDto.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\ResponseDtos\\Store\\GetStoreProductsResponseDto.cs",
+              "RelativeToolTip": "CreolytixECommerce.API\\ResponseDtos\\Store\\GetStoreProductsResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:25:49.043Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ResponseWrapper.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Wrappers\\ResponseWrapper.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Wrappers\\ResponseWrapper.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Wrappers\\ResponseWrapper.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Wrappers\\ResponseWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:06:57.57Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MessageWrapper.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Wrappers\\MessageWrapper.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Wrappers\\MessageWrapper.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Wrappers\\MessageWrapper.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Wrappers\\MessageWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:55:10.869Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetNearbyStoresQueryHandler.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Handlers\\Queries\\Stores\\GetNearbyStoresQueryHandler.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Handlers\\Queries\\Stores\\GetNearbyStoresQueryHandler.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Handlers\\Queries\\Stores\\GetNearbyStoresQueryHandler.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Handlers\\Queries\\Stores\\GetNearbyStoresQueryHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:30:15.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetReservationByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Handlers\\Queries\\Reservations\\GetReservationByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Handlers\\Queries\\Reservations\\GetReservationByIdQueryHandler.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Handlers\\Queries\\Reservations\\GetReservationByIdQueryHandler.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Handlers\\Queries\\Reservations\\GetReservationByIdQueryHandler.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:14:53.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetProductByIdConsumer.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Infrastructure\\Messaging\\Consumers\\Product\\GetProductByIdConsumer.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Infrastructure\\Messaging\\Consumers\\Product\\GetProductByIdConsumer.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Infrastructure\\Messaging\\Consumers\\Product\\GetProductByIdConsumer.cs",
+              "RelativeToolTip": "CreolytixECommerce.Infrastructure\\Messaging\\Consumers\\Product\\GetProductByIdConsumer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:34:28.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetProductByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Handlers\\Queries\\Products\\GetProductByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Handlers\\Queries\\Products\\GetProductByIdQueryHandler.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Handlers\\Queries\\Products\\GetProductByIdQueryHandler.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Handlers\\Queries\\Products\\GetProductByIdQueryHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:24:04.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CancelReservationCommandHandler.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Handlers\\Commands\\Reservations\\CancelReservationCommandHandler.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Handlers\\Commands\\Reservations\\CancelReservationCommandHandler.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Handlers\\Commands\\Reservations\\CancelReservationCommandHandler.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Handlers\\Commands\\Reservations\\CancelReservationCommandHandler.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:23:33.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAAJ0BAAAAAAAAAAAlwK0BAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-05T18:31:22.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetStoreByIdQuery.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Queries\\Stores\\GetStoreByIdQuery.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Queries\\Stores\\GetStoreByIdQuery.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Queries\\Stores\\GetStoreByIdQuery.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Queries\\Stores\\GetStoreByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:22:01.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetNearbyStoresQuery.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Queries\\Stores\\GetNearbyStoresQuery.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Queries\\Stores\\GetNearbyStoresQuery.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Queries\\Stores\\GetNearbyStoresQuery.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Queries\\Stores\\GetNearbyStoresQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:30:10.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetProductAvailabilityQueryHandler.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Handlers\\Queries\\Products\\GetProductAvailabilityQueryHandler.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Handlers\\Queries\\Products\\GetProductAvailabilityQueryHandler.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Handlers\\Queries\\Products\\GetProductAvailabilityQueryHandler.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Handlers\\Queries\\Products\\GetProductAvailabilityQueryHandler.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:23:47.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CancelReservationConsumer.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Infrastructure\\Messaging\\Consumers\\Reservations\\CancelReservationConsumer.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Infrastructure\\Messaging\\Consumers\\Reservations\\CancelReservationConsumer.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Infrastructure\\Messaging\\Consumers\\Reservations\\CancelReservationConsumer.cs",
+              "RelativeToolTip": "CreolytixECommerce.Infrastructure\\Messaging\\Consumers\\Reservations\\CancelReservationConsumer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAASwC8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:51:20.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetReservationByIdConsumer.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Infrastructure\\Messaging\\Consumers\\Reservations\\GetReservationByIdConsumer.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Infrastructure\\Messaging\\Consumers\\Reservations\\GetReservationByIdConsumer.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Infrastructure\\Messaging\\Consumers\\Reservations\\GetReservationByIdConsumer.cs",
+              "RelativeToolTip": "CreolytixECommerce.Infrastructure\\Messaging\\Consumers\\Reservations\\GetReservationByIdConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:49:59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetReservationByIdQuery.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Queries\\Reservations\\GetReservationByIdQuery.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Queries\\Reservations\\GetReservationByIdQuery.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Queries\\Reservations\\GetReservationByIdQuery.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Queries\\Reservations\\GetReservationByIdQuery.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:21:46.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetProductsByCategoryQuery.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Queries\\Products\\GetProductsByCategoryQuery.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Queries\\Products\\GetProductsByCategoryQuery.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Queries\\Products\\GetProductsByCategoryQuery.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Queries\\Products\\GetProductsByCategoryQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:21:24.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CancelReservationCommand.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Commands\\Reservations\\CancelReservationCommand.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Commands\\Reservations\\CancelReservationCommand.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Commands\\Reservations\\CancelReservationCommand.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Commands\\Reservations\\CancelReservationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:19:47.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "InventoryDto.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\DTOs\\InventoryDto.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\DTOs\\InventoryDto.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\DTOs\\InventoryDto.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\DTOs\\InventoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:17:55.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReservationDto.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\DTOs\\ReservationDto.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\DTOs\\ReservationDto.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\DTOs\\ReservationDto.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\DTOs\\ReservationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:31:25.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "StoreDto.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\DTOs\\StoreDto.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\DTOs\\StoreDto.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\DTOs\\StoreDto.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\DTOs\\StoreDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:31:11.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:31:19.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "RelativeToolTip": "CreolytixECommerce.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:34:06.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IStoreRepository.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Domain\\Interfaces\\IStoreRepository.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Domain\\Interfaces\\IStoreRepository.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Domain\\Interfaces\\IStoreRepository.cs",
+              "RelativeToolTip": "CreolytixECommerce.Domain\\Interfaces\\IStoreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:26:07.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Interfaces\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Interfaces\\ICommandHandler.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Interfaces\\ICommandHandler.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Interfaces\\ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:23:44.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Interfaces\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Interfaces\\IQueryHandler.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Interfaces\\IQueryHandler.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Interfaces\\IQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:24:00.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Domain\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Domain\\Entities\\Reservation.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Domain\\Entities\\Reservation.cs",
+              "RelativeToolTip": "CreolytixECommerce.Domain\\Entities\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:25:49.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MongoClient.cs",
+              "DocumentMoniker": "C:\\Users\\ozgur\\AppData\\Local\\SourceServer\\94d7178b1ce1ced0364f0c6a39f29b34debb0249b6cf0df0cd23002a9aaf901c\\MongoClient.cs",
+              "ToolTip": "C:\\Users\\ozgur\\AppData\\Local\\SourceServer\\94d7178b1ce1ced0364f0c6a39f29b34debb0249b6cf0df0cd23002a9aaf901c\\MongoClient.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAASwPMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:41:10.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Infrastructure\\Configuration\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Infrastructure\\Configuration\\MongoDbSettings.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Infrastructure\\Configuration\\MongoDbSettings.cs",
+              "RelativeToolTip": "CreolytixECommerce.Infrastructure\\Configuration\\MongoDbSettings.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vwsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:37:22.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IStoreService.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Interfaces\\Services\\IStoreService.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Interfaces\\Services\\IStoreService.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Interfaces\\Services\\IStoreService.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Interfaces\\Services\\IStoreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:31:59.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Infrastructure\\Data\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Infrastructure\\Data\\MongoDbContext.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Infrastructure\\Data\\MongoDbContext.cs",
+              "RelativeToolTip": "CreolytixECommerce.Infrastructure\\Data\\MongoDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:33:43.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-05T18:32:05.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T18:29:45.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ReservationStatus.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Domain\\Enums\\ReservationStatus.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Domain\\Enums\\ReservationStatus.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Domain\\Enums\\ReservationStatus.cs",
+              "RelativeToolTip": "CreolytixECommerce.Domain\\Enums\\ReservationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:26:37.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IInventoryService.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Interfaces\\Services\\IInventoryService.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Interfaces\\Services\\IInventoryService.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Interfaces\\Services\\IInventoryService.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Interfaces\\Services\\IInventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:34:47.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "StoreService.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Services\\StoreService.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Services\\StoreService.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Services\\StoreService.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Services\\StoreService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:33:03.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "CreolytixECommerce.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:25:36.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IMessageListener.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Interfaces\\Messaging\\IMessageListener.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Interfaces\\Messaging\\IMessageListener.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Interfaces\\Messaging\\IMessageListener.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Interfaces\\Messaging\\IMessageListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:23:24.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "CreolytixECommerce.Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:26:14.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:32:42.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RabbitMqSettings.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Infrastructure\\Configuration\\RabbitMqSettings.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Infrastructure\\Configuration\\RabbitMqSettings.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Infrastructure\\Configuration\\RabbitMqSettings.cs",
+              "RelativeToolTip": "CreolytixECommerce.Infrastructure\\Configuration\\RabbitMqSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:44:36.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CreolytixECommerce.API",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\CreolytixECommerce.API.csproj",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\CreolytixECommerce.API.csproj",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\CreolytixECommerce.API.csproj",
+              "RelativeToolTip": "CreolytixECommerce.API\\CreolytixECommerce.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T12:24:21.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CreolytixECommerce.API.csproj",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\CreolytixECommerce.API.csproj",
+              "RelativeDocumentMoniker": "CreolytixECommerce.API\\CreolytixECommerce.API.csproj",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.API\\CreolytixECommerce.API.csproj",
+              "RelativeToolTip": "CreolytixECommerce.API\\CreolytixECommerce.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T12:24:42.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Interfaces\\Services\\IReservationService.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Interfaces\\Services\\IReservationService.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Interfaces\\Services\\IReservationService.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Interfaces\\Services\\IReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:34:35.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Interfaces\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "CreolytixECommerce.Application\\Interfaces\\Services\\IProductService.cs",
+              "ToolTip": "D:\\CreolytixECommerceAPI\\CreolytixECommerce\\CreolytixECommerce.Application\\Interfaces\\Services\\IProductService.cs",
+              "RelativeToolTip": "CreolytixECommerce.Application\\Interfaces\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:31:53.374Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

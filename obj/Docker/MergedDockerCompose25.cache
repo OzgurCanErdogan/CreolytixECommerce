@@ -1,0 +1,77 @@
+name: dockercompose11829710902245439587
+services:
+  creolytixecommerce.api:
+    build:
+      context: D:\CreolytixECommerceAPI\CreolytixECommerce
+      dockerfile: CreolytixECommerce.API/Dockerfile
+    depends_on:
+      mongo:
+        condition: service_started
+        required: true
+      rabbitmq:
+        condition: service_healthy
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      MongoDbSettings__ConnectionString: mongodb://mongo:27117
+      MongoDbSettings__DatabaseName: CreolytixECommerce
+      RabbitMqSettings__HostName: rabbitmq
+      RabbitMqSettings__Password: guest
+      RabbitMqSettings__Port: "5772"
+      RabbitMqSettings__UserName: guest
+    image: creolytixecommerceapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "5002"
+        protocol: tcp
+  mongo:
+    environment:
+      MONGO_INITDB_DATABASE: CreolytixECommerce
+    image: mongo:latest
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 27017
+        published: "27117"
+        protocol: tcp
+    volumes:
+      - type: volume
+        source: mongo_data
+        target: /data/db
+        volume: {}
+  rabbitmq:
+    environment:
+      RABBITMQ_DEFAULT_PASS: guest
+      RABBITMQ_DEFAULT_USER: guest
+    healthcheck:
+      test:
+        - CMD
+        - rabbitmq-diagnostics
+        - ping
+      timeout: 10s
+      interval: 30s
+      retries: 3
+    image: rabbitmq:3-management
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5772
+        published: "5772"
+        protocol: tcp
+      - mode: ingress
+        target: 15672
+        published: "15772"
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose11829710902245439587_default
+    driver: bridge
+volumes:
+  mongo_data:
+    name: dockercompose11829710902245439587_mongo_data

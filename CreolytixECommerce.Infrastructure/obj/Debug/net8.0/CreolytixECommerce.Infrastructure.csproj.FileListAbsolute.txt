@@ -1,0 +1,17 @@
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Infrastructure\obj\Debug\net8.0\CreolytixECommerce.Infrastructure.csproj.AssemblyReference.cache
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Infrastructure\obj\Debug\net8.0\CreolytixECommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Infrastructure\obj\Debug\net8.0\CreolytixECommerce.Infrastructure.AssemblyInfoInputs.cache
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Infrastructure\obj\Debug\net8.0\CreolytixECommerce.Infrastructure.AssemblyInfo.cs
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Infrastructure\obj\Debug\net8.0\CreolytixECommerce.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Infrastructure\bin\Debug\net8.0\CreolytixECommerce.Infrastructure.deps.json
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Infrastructure\bin\Debug\net8.0\CreolytixECommerce.Infrastructure.dll
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Infrastructure\bin\Debug\net8.0\CreolytixECommerce.Infrastructure.pdb
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Infrastructure\bin\Debug\net8.0\CreolytixECommerce.Application.dll
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Infrastructure\bin\Debug\net8.0\CreolytixECommerce.Domain.dll
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Infrastructure\bin\Debug\net8.0\CreolytixECommerce.Application.pdb
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Infrastructure\bin\Debug\net8.0\CreolytixECommerce.Domain.pdb
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Infrastructure\obj\Debug\net8.0\Creolyti.7FD27D80.Up2Date
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Infrastructure\obj\Debug\net8.0\CreolytixECommerce.Infrastructure.dll
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Infrastructure\obj\Debug\net8.0\refint\CreolytixECommerce.Infrastructure.dll
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Infrastructure\obj\Debug\net8.0\CreolytixECommerce.Infrastructure.pdb
+D:\CreolytixECommerceAPI\CreolytixECommerce\CreolytixECommerce.Infrastructure\obj\Debug\net8.0\ref\CreolytixECommerce.Infrastructure.dll
