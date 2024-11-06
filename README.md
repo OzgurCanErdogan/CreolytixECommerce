@@ -87,3 +87,93 @@ This document outlines the core architectural and design decisions made in devel
   - **Dockerfile**: The .NET API project uses multi-stage builds to optimize image size and build time.
 
 ---
+
+# MongoDB Data Population for CreolytixECommerce
+
+To populate sample data for products and stores in the `CreolytixECommerce` database, use the following scripts in MongoDB Compass or a similar application.
+
+## Switch to Database
+
+```javascript
+use CreolytixECommerce
+
+
+db.products.insertMany([
+  {
+    Name: "Smartphone",
+    Category: "Electronics",
+    Price: 599.99
+  },
+  {
+    Name: "Laptop",
+    Category: "Electronics",
+    Price: 999.99
+  },
+  {
+    Name: "Tablet",
+    Category: "Electronics",
+    Price: 399.99
+  },
+  
+  {
+    Name: "T-Shirt",
+    Category: "Clothing",
+    Price: 19.99
+  },
+  {
+    Name: "Jeans",
+    Category: "Clothing",
+    Price: 49.99
+  },
+  {
+    Name: "Jacket",
+    Category: "Clothing",
+    Price: 79.99
+  },
+  
+  {
+    Name: "Microwave",
+    Category: "Home Appliances",
+    Price: 99.99
+  },
+  {
+    Name: "Blender",
+    Category: "Home Appliances",
+    Price: 29.99
+  },
+  {
+    Name: "Coffee Maker",
+    Category: "Home Appliances",
+    Price: 49.99
+  }
+]);
+
+db.stores.insertMany([
+  {
+    "Name": "Munich City Store",
+    "Location": { "type": "Point", "Coordinates": [11.5761, 48.1374] },
+    "Address": "Marienplatz, 80331 Munich, Germany"
+  },
+  {
+    "Name": "Berlin Central Store",
+    "Location": { "type": "Point", "Coordinates": [13.405, 52.52] },
+    "Address": "Alexanderplatz, 10178 Berlin, Germany"
+  },
+  {
+    "Name": "Hamburg Harbor Store",
+    "Location": { "type": "Point", "Coordinates": [9.9937, 53.5511] },
+    "Address": "Landungsbrücken, 20359 Hamburg, Germany"
+  },
+  {
+    "Name": "Cologne Riverside Store",
+    "Location": { "type": "Point", "Coordinates": [6.9603, 50.9375] },
+    "Address": "Domkloster 4, 50667 Cologne, Germany"
+  },
+  {
+    "Name": "Frankfurt Skyline Store",
+    "Location": { "type": "Point", "Coordinates": [8.6821, 50.1109] },
+    "Address": "Zeil, 60313 Frankfurt, Germany"
+  }
+]);
+```
+
