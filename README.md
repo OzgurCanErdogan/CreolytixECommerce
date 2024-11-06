@@ -180,6 +180,7 @@ db.stores.insertMany([
 # Solution Workflow Guide
 
 ## Running the Application
+(Note: You need to switch Docker to run Linux containers instead Windows)\
 First, start the application either through Visual Studio or from the command line. Once the application is running, populate the database with sample data as shown in previous section "MongoDB Data Population for CreolytixECommerce".
 For command line:
 Change directory to folder where "docker-compose" exists. then run following "docker-compose build" and then "docker-compose up".
