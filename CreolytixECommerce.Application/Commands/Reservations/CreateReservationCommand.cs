@@ -8,6 +8,5 @@ namespace CreolytixECommerce.Application.Commands.Reservations
     {
         public string StoreId { get; set; }
         public string ProductId { get; set; }
-        //public int Quantity { get; set; }
     }
 }

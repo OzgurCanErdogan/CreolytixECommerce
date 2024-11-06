@@ -100,7 +100,7 @@ namespace CreolytixECommerce.API.Controllers
             var query = new GetStoreProductsQuery { StoreId = storeId };
             var wrappedQuery = new MessageWrapper<GetStoreProductsQuery>(query);
 
-            // Publish the wrapped query to the get_store_by_id_queue
+            // Publish the wrapped query to the get_products_store_by_id_queue
             await _messagePublisher.PublishAsync("get_products_store_by_id_queue", wrappedQuery, "store_response_queue");
 
             // Wait for response with the matching CorrelationId

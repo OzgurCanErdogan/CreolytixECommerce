@@ -27,14 +27,13 @@ namespace CreolytixECommerce.Infrastructure.Messaging.Consumers.Stores
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            // Listen for MessageWrapper<GetStoreByIdQuery>
+            // Listen for MessageWrapper<GetStoreProductsQuery>
             await _messageListener.StartListeningAsync<MessageWrapper<GetStoreProductsQuery>>("get_products_store_by_id_queue", async wrappedMessage =>
             {
                 // Check if the cancellation token is requested to stop
                 if (stoppingToken.IsCancellationRequested)
                     return;
 
-                // Create a new scope to resolve scoped services
                 using var scope = _serviceProvider.CreateScope();
                 var mediator = scope.ServiceProvider.GetRequiredService<IMediator>();
 

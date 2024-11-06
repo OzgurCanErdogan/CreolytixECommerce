@@ -34,7 +34,6 @@ namespace CreolytixECommerce.Infrastructure.Messaging.Consumers.Stores
                 if (stoppingToken.IsCancellationRequested)
                     return;
 
-                // Create a new scope to resolve scoped services
                 using var scope = _serviceProvider.CreateScope();
                 var mediator = scope.ServiceProvider.GetRequiredService<IMediator>();
 

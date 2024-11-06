@@ -12,8 +12,6 @@ namespace CreolytixECommerce.Domain.Interfaces
         Task CreateReservationAsync(Reservation reservation);
         Task<Reservation> GetReservationByIdAsync(string reservationId);
         Task UpdateReservationAsync(Reservation reservation);
-        Task<IEnumerable<Reservation>> GetExpiredReservationsAsync(DateTime currentTime);
-        Task DeleteReservationAsync(string reservationId);
         Task UpdateExpiredReservationStatusAsync(string reservationId);
     }
 }

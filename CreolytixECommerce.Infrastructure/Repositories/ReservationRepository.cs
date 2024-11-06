@@ -40,20 +40,7 @@ namespace CreolytixECommerce.Infrastructure.Repositories
             await _reservationCollection.ReplaceOneAsync(filter, reservation);
         }
 
-        // Check for expired reservations
-        public async Task<IEnumerable<Reservation>> GetExpiredReservationsAsync(DateTime currentTime)
-        {
-            var filter = Builders<Reservation>.Filter.Lt(res => res.ExpiresAt, currentTime);
-            return await _reservationCollection.Find(filter).ToListAsync();
-        }
-
-        // Delete a reservation by ID
-        public async Task DeleteReservationAsync(string reservationId)
-        {
-            var filter = Builders<Reservation>.Filter.Eq(r => r.Id, reservationId);
-            await _reservationCollection.DeleteOneAsync(filter);
-        }
-
+        // Update expired reservation's status
         public async Task UpdateExpiredReservationStatusAsync(string reservationId)
         {
             var reservation = await _reservationCollection
